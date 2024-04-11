@@ -36,17 +36,17 @@
 			</div>
 			<div class="navbar-collapse collapse">
 				<ul class="nav navbar-nav pull-right">
-					<li class="active"><a href="#">Home</a></li>
-					<li><a href="about.php">About</a></li>
+					<li class="active"><a href="#">Inicio</a></li>
+					<li><a href="about.php">Sobre nosotros</a></li>
 					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown">More Pages <b class="caret"></b></a>
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Más páginas <b class="caret"></b></a>
 						<ul class="dropdown-menu">
 							<li><a href="sidebar-left.php">Left Sidebar</a></li>
 							<li class="active"><a href="sidebar-right.php">Right Sidebar</a></li>
 						</ul>
 					</li>
-					<li><a href="contact.php">Contact</a></li>
-					<li><a class="btn" href="signin.php">SIGN IN / SIGN UP</a></li>
+					<li><a href="contact.php">Contacto</a></li>
+					<li><a class="btn" href="INICIAR SESIÓN / REGISTRARSE</a></li>
 				</ul>
 			</div><!--/.nav-collapse -->
 		</div>
@@ -57,9 +57,9 @@
 	<header id="head">
 		<div class="container">
 			<div class="row">
-				<h1 class="lead">WELCOME STUDENTS DDS</h1>
-				<p class="tagline">Esto es una prueba de commit y nuevo push en terminal <a href="http://www.gettemplate.com/?utm_source=progressus&amp;utm_medium=template&amp;utm_campaign=progressus">GetTemplate</a></p>
-				<p><a class="btn btn-default btn-lg" role="button">MORE INFO</a> <a class="btn btn-action btn-lg" role="button">DOWNLOAD NOW</a></p>
+				<h1 class="lead">¡BIENVENIDOS GEEKS!</h1>
+				<p class="tagline">Hasta el infinito y más allá. <a href="http://www.gettemplate.com/?utm_source=progressus&amp;utm_medium=template&amp;utm_campaign=progressus">GetTemplate</a></p>
+				<p><a class="btn btn-default btn-lg" role="button">MÁS INFO</a> <a class="btn btn-action btn-lg" role="button">DESCARGAR AHORA</a></p>
 			</div>
 		</div>
 	</header>
@@ -68,7 +68,7 @@
 	<!-- Intro -->
 	<div class="container text-center">
 		<br> <br>
-		<h2 class="thin">The best place to tell people why they are here</h2>
+		<h2 class="thin">Deja volar tu imaginación con la tecnología.</h2>
 		<p class="text-muted">
 			The difference between involvement and commitment is like an eggs-and-ham breakfast:<br> 
 			the chicken was involved; the pig was committed.
